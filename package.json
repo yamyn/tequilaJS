@@ -1,0 +1,29 @@
+{
+    "name": "tequilajs",
+    "version": "1.0.0",
+    "description": "module for soft work with Socket.io",
+    "main": "test.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "express",
+        "websockets",
+        "rest",
+        "socket.io",
+        "joi"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yamyn/tequilaJS.git"
+    },
+    "author": "Yaroslav Mynchenko",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yamyn/tequilaJS/issues"
+    },
+    "homepage": "https://github.com/yamyn/tequilaJS#readme"
+}
